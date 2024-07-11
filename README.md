@@ -16,3 +16,4 @@ Instrucciones de uso
 Descargar proyecto
 Crear base de datos (cinema) e importar archivo cinema.sql
 Cambiar los datos de acceso en config/database.php
+![Captura de pantalla 2024-07-11 145123](https://github.com/maurox4800/Crud/assets/99272865/119a314b-a1fb-42f0-830f-d6e24d85dcdb)
