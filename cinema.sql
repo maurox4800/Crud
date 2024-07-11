@@ -108,7 +108,7 @@ VALUES (
 ALTER TABLE `genero` ADD PRIMARY KEY (`id`);
 
 --
--- Indices de la tabla `peliculaa`
+-- Indices de la tabla `pelicula`
 --
 ALTER TABLE `pelicula`
 ADD PRIMARY KEY (`id`),
